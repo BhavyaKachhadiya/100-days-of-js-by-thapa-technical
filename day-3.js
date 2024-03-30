@@ -1,4 +1,4 @@
-// Day -3
+// DAY -3
 
 /**
  * The function `countChar` takes a string and a character as input, and returns the count of how many
