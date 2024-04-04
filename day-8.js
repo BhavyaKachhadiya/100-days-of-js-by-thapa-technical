@@ -10,13 +10,18 @@
 
 /**
  * The factorial function calculates the factorial of a given number using recursion in JavaScript.
- * @param num - 0, 1, 2, 3, 4, 5
- * @returns factorial(0) 1 
- * @returns factorial(1) 1
- * @returns factorial(2) 2
- * @returns factorial(3) 6
- * @returns factorial(4) 24
- * @returns factorial(5) 120
+ * @param num - 0
+ * @returns 1 
+ * @param num - 1
+ * @returns  1
+ * @param num - 2
+ * @returns  2
+ * @param num - 3
+ * @returns  6
+ * @param num - 4
+ * @returns  24
+ * @param num - 5
+ * @returns  120
  */
 const factorial = (num)=>{
     if(num < 0) return false;
